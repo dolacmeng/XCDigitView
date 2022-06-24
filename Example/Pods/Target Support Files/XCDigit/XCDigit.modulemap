@@ -1,0 +1,6 @@
+framework module XCDigit {
+  umbrella header "XCDigit-umbrella.h"
+
+  export *
+  module * { export * }
+}

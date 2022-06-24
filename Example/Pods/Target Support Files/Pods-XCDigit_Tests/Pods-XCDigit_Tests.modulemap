@@ -1,0 +1,6 @@
+framework module Pods_XCDigit_Tests {
+  umbrella header "Pods-XCDigit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
